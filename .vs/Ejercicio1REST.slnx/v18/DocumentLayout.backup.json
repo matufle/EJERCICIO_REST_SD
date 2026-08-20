@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad\\Ejercicio1-REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\controllers\\inventorycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\inventorycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryControllers.cs",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Controllers\\InventoryControllers.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryControllers.cs",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Controllers\\InventoryControllers.cs*",
+              "RelativeToolTip": "InventoryService\\Controllers\\InventoryControllers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:28:04.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

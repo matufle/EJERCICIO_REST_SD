@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad\\Ejercicio1-REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B659766-7E0F-0DDB-4856-8F81A1D41537}|OrdersService\\OrdersService.csproj|d:\\facultad\\ejercicio1-rest\\ordersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B659766-7E0F-0DDB-4856-8F81A1D41537}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B659766-7E0F-0DDB-4856-8F81A1D41537}|OrdersService\\OrdersService.csproj|d:\\facultad\\ejercicio1-rest\\ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B659766-7E0F-0DDB-4856-8F81A1D41537}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12EC702-1392-403A-AFC5-962C198A1850}|D:\\Facultad\\Ejercicio1-REST{41A393E4-997C-4BB7-8193-48323FB44089}|D:\\Facultad\\Ejercicio1-REST\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{D12EC702-1392-403A-AFC5-962C198A1850}|D:\\Facultad\\Ejercicio1-REST{41A393E4-997C-4BB7-8193-48323FB44089}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\inventoryservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\inventoryservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B659766-7E0F-0DDB-4856-8F81A1D41537}|OrdersService\\OrdersService.csproj|d:\\facultad\\ejercicio1-rest\\ordersservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B659766-7E0F-0DDB-4856-8F81A1D41537}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\controllers\\inventorycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\inventorycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|d:\\facultad\\ejercicio1-rest\\inventoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091578C1-6C28-3185-2839-F0C07C55C3F2}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersService",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\OrdersService\\OrdersService.csproj",
+              "RelativeDocumentMoniker": "OrdersService\\OrdersService.csproj",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\OrdersService\\OrdersService.csproj",
+              "RelativeToolTip": "OrdersService\\OrdersService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T02:53:23.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\OrdersService\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Program.cs",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\OrdersService\\Program.cs",
+              "RelativeToolTip": "OrdersService\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:46:16.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-08-20T02:30:16.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryService.http",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\InventoryService.http",
+              "RelativeDocumentMoniker": "InventoryService\\InventoryService.http",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\InventoryService.http",
+              "RelativeToolTip": "InventoryService\\InventoryService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-20T01:58:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Program.cs",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Program.cs",
+              "RelativeToolTip": "InventoryService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:03:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\OrdersService\\Dockerfile",
+              "RelativeDocumentMoniker": "OrdersService\\Dockerfile",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\OrdersService\\Dockerfile",
+              "RelativeToolTip": "OrdersService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-20T02:26:59.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryService",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\InventoryService.csproj",
+              "RelativeDocumentMoniker": "InventoryService\\InventoryService.csproj",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\InventoryService.csproj",
+              "RelativeToolTip": "InventoryService\\InventoryService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T02:27:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Dockerfile",
+              "RelativeDocumentMoniker": "InventoryService\\Dockerfile",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Dockerfile",
+              "RelativeToolTip": "InventoryService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-20T02:25:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryControllers.cs",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Controllers\\InventoryControllers.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryControllers.cs",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\Controllers\\InventoryControllers.cs",
+              "RelativeToolTip": "InventoryService\\Controllers\\InventoryControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:28:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryService\\appsettings.json",
+              "ToolTip": "D:\\Facultad\\Ejercicio1-REST\\InventoryService\\appsettings.json",
+              "RelativeToolTip": "InventoryService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-20T01:58:14.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

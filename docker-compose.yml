@@ -1,0 +1,12 @@
+services:
+  inventoryservice:
+    build: ./InventoryService
+    container_name: inventoryservice
+    ports:
+      - "5000:8080"
+
+  ordersservice:
+    build: ./OrdersService
+    container_name: ordersservice
+    depends_on:
+      - inventoryservice

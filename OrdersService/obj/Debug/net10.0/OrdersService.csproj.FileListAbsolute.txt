@@ -1,0 +1,14 @@
+D:\Facultad\Ejercicio1-REST\OrdersService\bin\Debug\net10.0\OrdersService.exe
+D:\Facultad\Ejercicio1-REST\OrdersService\bin\Debug\net10.0\OrdersService.deps.json
+D:\Facultad\Ejercicio1-REST\OrdersService\bin\Debug\net10.0\OrdersService.runtimeconfig.json
+D:\Facultad\Ejercicio1-REST\OrdersService\bin\Debug\net10.0\OrdersService.dll
+D:\Facultad\Ejercicio1-REST\OrdersService\bin\Debug\net10.0\OrdersService.pdb
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.AssemblyInfoInputs.cache
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.AssemblyInfo.cs
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.csproj.CoreCompileInputs.cache
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.dll
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\refint\OrdersService.dll
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.pdb
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\OrdersService.genruntimeconfig.cache
+D:\Facultad\Ejercicio1-REST\OrdersService\obj\Debug\net10.0\ref\OrdersService.dll
